@@ -1,2 +1,2 @@
-# Topic-Modellin-using-LDA
-Topic Modelling of Twitter data using LDA (RCodes) 
+# Topic-Modelling
+Topic Modelling of Twitter data using LDA &amp; CTM (RCodes)
